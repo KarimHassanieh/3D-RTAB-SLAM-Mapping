@@ -1,0 +1,3 @@
+# Hashes of file build rules.
+2b0d8b4b252a4e0aefce3fdaee1728e0 /home/karim/catk_ws/devel/share/roseus/ros/sweeping_bot/manifest.l
+0a04448024404fe492a21cdde0aeea45 CMakeFiles/clean_test_results

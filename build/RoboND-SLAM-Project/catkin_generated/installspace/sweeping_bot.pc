@@ -1,0 +1,8 @@
+prefix=/home/karim/catk_ws/install
+
+Name: sweeping_bot
+Description: Description of sweeping_bot
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/karim/catk_ws/install/lib 
+Requires: 
